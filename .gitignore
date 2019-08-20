@@ -1,3 +1,6 @@
+Experiments/**/*.csv
+Experiments/**/*.pkl
+
 Utilities/gitversion.h
 modules.h
 
