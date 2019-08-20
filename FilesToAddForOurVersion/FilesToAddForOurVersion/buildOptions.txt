@@ -2,8 +2,6 @@
   + Berry
   + Xor
   * Test
-  + Logic16
-  + BlockCatch
   + ComplexiPhi
   + TPM
 
@@ -19,8 +17,7 @@
   + Human
   - Wire
   + ANN
-  + BiLog
-
+	
 % Optimizer
   * Simple
   - Islands
