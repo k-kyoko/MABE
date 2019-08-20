@@ -22,7 +22,7 @@ genome = []
 activity = []
 # TPM_jory = []
 
-runs = 1
+runs = 10
 
 for r in list(range(0,runs)):
 	print(['run number ' + str(r)])
